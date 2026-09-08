@@ -7,16 +7,12 @@
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td><img src="https://shields.io" alt="Python" /></td>
-    <td><img src="https://shields.io" alt="NumPy" /></td>
-    <td><img src="https://shields.io" alt="Git" /></td>
-    <td><img src="https://shields.io" alt="VS Code" /></td>
-  </tr>
-</table>
+![Python](https://shields.io)
+![NumPy](https://shields.io)
+![Git](https://shields.io)
+![VS Code](https://shields.io)
 
 
 ---
