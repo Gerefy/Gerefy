@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Dima! 👋
 
-<!--
-**Gerefy/Gerefy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🏛 First-year **IS&T Student** at MADI (Information Systems and Technologies)
+- 🎯 Aspiring **Data Science & AI Engineer**
+- 🚀 Passionate about optimizing algorithms, data pipelines, and machine learning models
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+![Python](https://shields.io)
+![NumPy](https://shields.io)
+![Git](https://shields.io)
+![VS Code](https://shields.io)
+
+---
+
+### 📚 Featured Projects
+*   **[Gerefy/leetcode-ds-algorithms](https://github.com)** — My core data structures and algorithms track (Top Interview 150). Focused on clean, in-place solutions with $O(1)$ space complexity optimization.
+*   **🤖 MADI History Telegram Bot** (`@Gerefy_history_bot`) — An interactive quiz bot built with Python (`telebot`) helping students master history lectures using dynamic flashcards.
+
+---
+
+### 📈 LeetCode Activity
+![LeetCode Stats](https://vercel.app)
