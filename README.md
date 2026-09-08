@@ -8,10 +8,13 @@
 ---
 
 ### 🛠 Tech Stack & Tools
-![Python](https://shields.io)
-![NumPy](https://shields.io)
-![Git](https://shields.io)
-![VS Code](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="NumPy" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="VS Code" />
+</p>
+
 
 ---
 
