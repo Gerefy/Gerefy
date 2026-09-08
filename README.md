@@ -1,4 +1,4 @@
-# Hi there, I'm Dima! 👋
+# Hi there, I'm Dmitrij! 👋
 
 ### 👨‍💻 About Me
 - 🏛 First-year **IS&T Student** at MADI (Information Systems and Technologies)
