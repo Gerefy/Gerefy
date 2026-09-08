@@ -8,13 +8,7 @@
 ---
 
 ### 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="NumPy" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="VS Code" />
-</p>
-
+![Python](https://shields.io) ![NumPy](https://shields.io) ![Git](https://shields.io) ![VS Code](https://shields.io)
 
 ---
 
@@ -23,5 +17,7 @@
 
 ---
 
-### 📈 LeetCode Activity
-![LeetCode Stats](https://vercel.app)
+### 📈 LeetCode Progress
+- **Profile:** [@Gerefy](https://leetcode.com)
+- **Target Track:** Top Interview 150
+- **Latest Solved:** `121. Best Time to Buy and Sell Stock` (Optimized $O(1)$ Space)
