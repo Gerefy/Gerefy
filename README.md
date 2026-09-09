@@ -8,7 +8,7 @@
 ---
 ### 🛠️ Tech Stack & Tools
 
-<img src="https://shields.io" height="35" /> <img src="https://shields.io" height="35" /> <img src="https://shields.io" height="35" /> <img src="https://shields.io" height="35" />
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
 
 ---
