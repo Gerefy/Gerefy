@@ -23,3 +23,20 @@
 - **Profile:** [@Gerefy](https://leetcode.com)
 - **Target Track:** Top Interview 150
 - **Latest Solved:** `121. Best Time to Buy and Sell Stock` (Optimized $O(1)$ Space)
+---
+
+### 📊 GitHub Stats
+![Gerefy's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://t.me" target="_blank">
+    <img src="https://shields.io" alt="@nn_kakojto" />
+  </a>
+  <a href="mailto:gerefy24@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
