@@ -7,8 +7,8 @@
 
 ---
 ### 🛠️ Tech Stack & Tools
+![Static Badge](https://img.shields.io/badge/docs-ready-blue)
 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
 
 ---
