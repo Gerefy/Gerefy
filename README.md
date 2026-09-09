@@ -7,9 +7,10 @@
 
 ---
 ### 🛠️ Tech Stack & Tools
-![Static Badge](https://img.shields.io/badge/docs-ready-blue)
-
-
+![Static Badge](https://img.shields.io/badge/Pyhotn-violet)
+![Static Badge](https://img.shields.io/badge/NumPy-green)
+![Static Badge](https://img.shields.io/badge/Git-yellow)
+![Static Badge](https://img.shields.io/badge/VS%20Code-blue)
 
 ---
 
