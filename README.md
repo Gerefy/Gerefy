@@ -8,7 +8,8 @@
 ---
 ### 🛠️ Tech Stack & Tools
 
-![Python](https://shields.io) ![NumPy](https://shields.io) ![Git](https://shields.io) ![VS Code](https://shields.io)
+<img src="https://shields.io" height="35" /> <img src="https://shields.io" height="35" /> <img src="https://shields.io" height="35" /> <img src="https://shields.io" height="35" />
+
 
 ---
 
