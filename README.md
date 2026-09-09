@@ -6,10 +6,9 @@
 - 🚀 Passionate about optimizing algorithms, data pipelines, and machine learning models
 
 ---
-
 ### 🛠️ Tech Stack & Tools
-![Python](https://shields.io) ![NumPy](https://shields.io) ![Git](https://shields.io) ![VS Code](https://shields.io)
 
+![Python](https://shields.io) ![NumPy](https://shields.io) ![Git](https://shields.io) ![VS Code](https://shields.io)
 
 ---
 
