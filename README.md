@@ -35,5 +35,5 @@
 ![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/%40nn_kakojto-blue?style=for-the-badge)
 <br><br>
-![Static Badge](https://img.shields.io/badge/mial-red?style=for-the-badge&label=%40&labelColor=black)
+![Static Badge](https://img.shields.io/badge/emial-red?style=for-the-badge&label=%40&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/gerefy24%40gmail.com-red?style=for-the-badge)
