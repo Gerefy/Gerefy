@@ -7,7 +7,7 @@
 
 ---
 ### 🛠️ Tech Stack & Tools
-![Static Badge](https://img.shields.io/badge/Pyhton-violet?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/PYTHON-violet?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/NumPy-green?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Git-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge)
