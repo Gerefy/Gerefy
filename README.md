@@ -25,12 +25,6 @@
 - **Latest Solved:** `121. Best Time to Buy and Sell Stock` (Optimized $O(1)$ Space)
 ---
 
-### 📊 GitHub Stats
-![Gerefy's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
----
-
 ### 🤝 Connect with Me
 ![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/%40nn_kakojto-blue?style=for-the-badge)
